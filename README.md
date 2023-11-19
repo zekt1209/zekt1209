@@ -1,6 +1,8 @@
 <h1 align="center">👨‍💻&nbsp;&nbsp;◽&nbsp;Software Engenieer&nbsp;◽&nbsp;&nbsp;💻 </h1>
 
-<!-- [![profile-github-banner](https://github.com/JorgeRodz/JorgeRodz/assets/13999498/dc6822d2-3f84-4685-b295-a0c185b91b48)](https://jarf-portfolio.netlify.app/) -->
+<p align="center">
+<img src="https://instagram.fgdl9-1.fna.fbcdn.net/v/t51.2885-19/399010690_984042765992486_3255136050923093967_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fgdl9-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=pzpTSDAzeXoAX-t-vec&edm=ACWDqb8BAAAA&ccb=7-5&oh=00_AfAPgGCjHwKET241A14m_vuh4GmHA2WQSPjtnDZvFcl5IQ&oe=6560600F&_nc_sid=ee9879" alt="victorguzman">
+</p>
 
 # 👻 About me 👨🏻‍🦱
 
