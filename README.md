@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻&nbsp;&nbsp;◽&nbsp;Software Engenieer&nbsp;◽&nbsp;&nbsp;💻 </h1>
 
 <p align="center">
-<img src="https://instagram.fgdl9-1.fna.fbcdn.net/v/t51.2885-19/399010690_984042765992486_3255136050923093967_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fgdl9-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=pzpTSDAzeXoAX-t-vec&edm=ACWDqb8BAAAA&ccb=7-5&oh=00_AfAPgGCjHwKET241A14m_vuh4GmHA2WQSPjtnDZvFcl5IQ&oe=6560600F&_nc_sid=ee9879" alt="victorguzman">
+<img src="https://github.com/zekt1209/zekt1209/blob/main/github-banner-pic2.jpeg" alt="victorguzman">
 </p>
 
 # 👻 About me 👨🏻‍🦱
